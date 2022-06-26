@@ -1,1 +1,2 @@
 Criar um javascript para mudar a cor do nav a esquerda da página
+Inserir Jogos na Página
